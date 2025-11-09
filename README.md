@@ -51,4 +51,4 @@ Conectemos para discutir oportunidades de desarrollo o colaboración.
 
 <br>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Cristian-Cardenas&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Cristian-Cardenas&theme=dark&locale=es&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
