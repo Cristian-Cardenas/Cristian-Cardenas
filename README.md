@@ -35,9 +35,15 @@ A lo largo de mi experiencia he logrado:
 
 Estos son algunos de los repositorios que mejor demuestran mi experiencia.
 
-* **[]**: *Plataforma de gestión interna con Filament y MySQL.*
-* **[RedSocial Intranet, ASHE S.A.S con Livewire/WebSockets]**: *Demo de un chat en tiempo real o sistema de notificaciones.*
-* **[Asislegal con IA/OpenAI]**: *Integración de un asistente inteligente en una app web.*
+- Plataformas
+* **https://github.com/Cristian-Cardenas/ViajesCo**: *ViajesCo: Plataforma de Generación Avanzada de Posts SEO IA (Gemini).*
+* **https://github.com/Cristian-Cardenas/sorteosQR**: *SorteosQR: Plataforma de generacion de sorteos por codigos QR.*
+* **https://github.com/Cristian-Cardenas/LH-panel**: *LH-Panel: Plataforma de administracion de ventas*
+
+-Landings (private)
+
+* **https://deepskyblue-grouse-496657.hostingersite.com/**: *LastHit: Landing de empresa de creación de software.*
+* **https://wonderstudios.com.co/**: *Wonder: Landing de empresa de modelos web*
 
 ---
 
